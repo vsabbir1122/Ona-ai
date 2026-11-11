@@ -1,0 +1,7 @@
+{
+  "name": "Ona AI - Bengali AI Companion & Device Automation",
+  "description": "Ultra-realistic human-like Bengali AI companion, expert programmer, and mobile phone automation agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
